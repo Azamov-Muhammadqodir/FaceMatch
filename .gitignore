@@ -427,3 +427,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Demo/test photos downloaded by scripts/download-samples.sh
+samples/

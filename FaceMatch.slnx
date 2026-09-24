@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FaceMatch.Api/FaceMatch.Api.csproj" />
+    <Project Path="src/FaceMatch.Core/FaceMatch.Core.csproj" />
+    <Project Path="src/FaceMatch.Infrastructure/FaceMatch.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FaceMatch.Tests/FaceMatch.Tests.csproj" />
+  </Folder>
+</Solution>
